@@ -5,6 +5,8 @@ molecular dynamics (PIMD). It uses i-PI for the ring-polymer dynamics and
 LAMMPS for the flexible q-TIP4P/F water potential. The initial structure is a
 periodic 32-molecule water box.
 
+**DONE BY VIBE CODING WITH COPIOLOT**
+
 ## Why this setup
 
 - Each nucleus is represented by 32 imaginary-time beads at 298 K. Increase
