@@ -7,6 +7,8 @@ periodic 32-molecule water box.
 
 **DONE BY VIBE CODING WITH COPIOLOT**
 
+**REQUESTED AND COMMISIONED BY "tejassaikrishna-del" SIMULATION**
+
 ## Why this setup
 
 - Each nucleus is represented by 32 imaginary-time beads at 298 K. Increase
