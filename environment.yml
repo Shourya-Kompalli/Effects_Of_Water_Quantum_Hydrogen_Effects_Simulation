@@ -1,0 +1,11 @@
+name: water-pimd
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - pip
+  - lammps
+  - numpy
+  - matplotlib
+  - pip:
+      - ipi>=3.2.0

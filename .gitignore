@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.venv/
+*.log
+simulation.*
+h2o-lammps
+data/water_32_data.lmp
+analysis/
